@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Project Overview
+## 🧠 Project overview
 
 This project is aimed at predicting the **most suitable crop** for cultivation based on various factors such as rainfall, fertilizers, pesticides, crop year, and geographical state. Using machine learning models, specifically **Random Forest Classifier**, it helps farmers or agriculturalists make informed decisions.
 
