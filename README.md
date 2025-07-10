@@ -116,7 +116,7 @@ git clone https://github.com/Srilasya112/crop-yield-prediction.git
 cd crop-yield-prediction
 ```
 
-### 2. Set Up Virtual Environment
+### 2. set up virtual environment
 
 ```bash
 python -m venv venv
